@@ -8,4 +8,4 @@ Portfolio page for mom's cake-teaching class in Kochi, run under Cochin Social S
 - **Location:** Cochin Social Service Society, Jubilee Nagar, Veli, Kochi
 - **Contact:** +91 62388 27566
 
-Live site: https://astelwilliam.github.io/jubilee-baking-institute/
+Live site: https://astelwilliam.github.io/jubilee/
